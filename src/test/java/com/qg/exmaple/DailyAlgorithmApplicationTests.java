@@ -1,4 +1,4 @@
-package com.qg.exmaple.DailyAlgorithm;
+package com.qg.exmaple;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
