@@ -105,7 +105,7 @@ public class Test113 {
         if (x > y) {
             int temp = x;
             x = y;
-            y = x;
+            y = temp;
         }
         int n = x;
         while (n >= 1) {
